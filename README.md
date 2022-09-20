@@ -6,7 +6,7 @@
 
 ## Technical Background:
 ### Work:
-| Position | Company | Timeframe | Programming Language | 
+| Position | Company | Timeframe | Programming Language |
 | --- | --- | --- | --- |
 
 | Full-Stack Software Developer | AutoSweet | June 2022 - Present | C#, JavaScript |
@@ -15,9 +15,9 @@
 | Application Developer Intern | United Wholesale Mortgage | June 2020 - August 2020 | C#, F# |
 
 ### Education:
-| Timeframe | School | Degree Level | Program | 
-| --- | --- | --- | --- |
+| Timeframe | School | Degree Level | Program |
 
+| --- | --- | --- | --- |
 | 2022 - Present | Grand Valley State University| M.S. | Applied Computer Science, with an emphasis in Software Engineering, Database Management, and Software Design & Development |
 | 2017 - 2020 | Grand Valley State University| B.S. | Major in Computer Science and a minor in Mathematics |
 | 2014 - 2017 | Muskegon Community College | Associates | Associate in Science and Arts - General Studies |
